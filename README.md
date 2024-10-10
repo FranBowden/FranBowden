@@ -7,7 +7,7 @@ I'm **Francesca**, a student at Bath Spa University studying Creative Computing 
 - 🎨 Learning **3D modeling** to expand my game development skills
 - 💻 Proficient in **C++** and **JavaScript**, my go-to programming languages
 - 🌟 **Aspiring Software Engineer** with a passion for building innovative solutions
-### 🌐 Check out my [portfolio](https://francescabowdenportfolio.co.uk/)
+### 🌐 Check out my [Portfolio](https://francescabowdenportfolio.co.uk/) and [Linkedin](https://www.linkedin.com/in/francesca-bowden-474b72259/)
 
 Feel free to explore my repositories 😄
 <!--
