@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hey 👋
 
+I'm **Francesca**, a student at Bath Spa University studying Creative Computing with a pathway in Game Development
+
+### 👩‍💻 About Me:
+- 🎮 Currently working on a **commercial game** set to release at the end of this year!
+- 🎨 Learning **3D modeling** to expand my game development skills
+- 💻 Proficient in **C++** and **JavaScript**, my go-to programming languages
+- 🌟 **Aspiring Software Engineer** with a passion for building innovative solutions
+### 🌐 Check out my [portfolio](https://francescabowdenportfolio.co.uk/)
+
+Feel free to explore my repositories 😄
 <!--
 **FranBowden/FranBowden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
