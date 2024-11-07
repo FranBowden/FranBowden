@@ -22,9 +22,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 </div>
-
-<hr>
 <!--
+<hr>
+
 I'm **Francesca**, a student at Bath Spa University studying Creative Computing with a pathway in Game Development
 
 ### 👩‍💻 About Me:
