@@ -7,7 +7,7 @@
 <!--
 <h2>About Me</h2>
 <p>I'm <b>Francesca</b>, a student at Bath Spa University studying Creative Computing with a pathway in Game Development</p>
--->
+
 <h2 align="center">Languages and Tools </h2>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-</div>
+</div>-->
 <!--
 <hr>
 
