@@ -15,7 +15,7 @@ I am a Creative Computing (Gaming) Graduate from Bath Spa University and did a s
 - **Databases:** Firebase  
 - **Game Development:** Unity, C#
 - **Version Control & Collaboration:** Git, GitHub  
-- **Deployment / Cloud:** Firebase Hosting
+- **Deployment / Cloud:** Firebase Hosting, Render
 
 ## Connect with me:
 
