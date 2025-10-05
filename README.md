@@ -17,5 +17,5 @@ I am a Creative Computing (Gaming) Graduate from Bath Spa University and did a s
 
 ## Connect with me:
 
-- **LinkedIn:** [Linkedin.com/in/francescabowden](www.linkedin.com/in/francescabowden)  
+- **LinkedIn:** [Linkedin.com/in/francescabowden](https://www.linkedin.com/in/francescabowden)  
 - **Portfolio:** [Francescabowden.com](http://francescabowden.com/)
