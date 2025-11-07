@@ -19,4 +19,4 @@ I am a Creative Computing (Gaming) Graduate from Bath Spa University and did a s
 
 - **LinkedIn:** [Linkedin.com/in/francescabowden](https://www.linkedin.com/in/francescabowden)  
 - **Portfolio:** [Francescabowden.com](http://francescabowden.com/)
-- **Itch.io:**  [franbowden.itch.io](https://franbowden.itch.io/)
+- **Itch.io:**  [Franbowden.itch.io](https://franbowden.itch.io/)
