@@ -13,7 +13,7 @@ I am a Creative Computing (Gaming) Graduate from Bath Spa University and did a s
 - **Frontend:** React, TypeScript, TailwindCSS, HTML/CSS
 - **Backend:** Node.js, Express.js, PHP  
 - **Game Development:** Unity, C#
-- **Version Control & Collaboration:** Git, GitHub  
+- **Version Control: ** Git, GitHub  
 
 ## Connect with me:
 
