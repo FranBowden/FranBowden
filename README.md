@@ -1,22 +1,12 @@
-# Hi, I'm Francesca Bowden!
+# Hi, I'm Fran 👋
+Full Stack Junior Developer building web apps with PHP, Laravel & Vue.js
 
-I am a Creative Computing (Gaming) Graduate from Bath Spa University and did a semester abroad at the University of Technology Sydney. I'm passionate about full stack and game development, and always trying to learn something new.
+## Tech Stack
 
-**Currently learning:**
-- PHP, CakePHP & Laravel
-- React & TypeScript
-- Linux and Networking
+**Backend:** PHP (CakePHP, Laravel), Node.js  
+**Frontend:** Vue.js, React, JavaScript, TailwindCSS  
+**Other:** Git, SQL, Linux, Unity & C#
 
-## Skills & Tools
+## Links
 
-### Programming and Development
-- **Languages:** C++, C#, TypeScript, SQL, PHP  
-- **Frontend:** React, TypeScript, TailwindCSS, HTML/CSS  
-- **Backend:** Node.js, Express.js, PHP, Laravel  
-- **Game Development:** Unity, C#  
-- **Version Control:** Git, GitHub  
-
-## Connect with me:
-- **LinkedIn:** [Linkedin.com/in/francescabowden](https://www.linkedin.com/in/francescabowden)  
-- **Portfolio:** [Francescabowden.com](http://francescabowden.com/)  
-- **Itch.io:** [Franbowden.itch.io](https://franbowden.itch.io/)
+[Portfolio](http://francescabowden.com/) · [LinkedIn](https://www.linkedin.com/in/francescabowden) · [Games](https://franbowden.itch.io/)
