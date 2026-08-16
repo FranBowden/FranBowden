@@ -1,12 +1,16 @@
 # Hi, I'm Fran 👋
-Full Stack Junior Developer building web apps with PHP, Laravel & Vue.js
+I'm a Junior Full Stack Developer building web apps with PHP (CakePHP, Laravel). I also make Unity games on the side
 
 ## Tech Stack
 
-**Backend:** PHP (CakePHP, Laravel), Node.js  
-**Frontend:** Vue.js, React, JavaScript, TailwindCSS  
-**Other:** Git, SQL, Linux, Unity & C#
+**Backend:** PHP (CakePHP, Laravel), Node.js, SQL
 
-## Links
+**Frontend:** Vue.js, React, JavaScript, TailwindCSS
+
+**Game Dev:** Unity, C#, C++
+
+**Tools:** Git, Linux
+   
+## Links to my work:
 
 [Portfolio](http://francescabowden.com/) · [LinkedIn](https://www.linkedin.com/in/francescabowden) · [Games](https://franbowden.itch.io/)
