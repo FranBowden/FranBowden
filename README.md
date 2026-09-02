@@ -5,11 +5,9 @@ I'm a Junior Full Stack Developer building web apps with PHP (CakePHP, Laravel).
 
 **Backend:** PHP (CakePHP, Laravel), Node.js, SQL
 
-**Frontend:** Vue.js, React, JavaScript, TailwindCSS
+**Frontend:** Vue, React, JavaScript
 
 **Game Dev:** Unity, C#, C++
-
-**Tools:** Git, Linux
    
 ## Links to my work:
 
