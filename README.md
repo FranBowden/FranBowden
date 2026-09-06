@@ -1,14 +1,22 @@
-# Hi, I'm Fran 👋
-I'm a Junior Full Stack Developer building web apps with PHP (CakePHP, Laravel). I also make Unity games on the side
+# Hey, I'm Fran 👋
+I'm a Junior Software Developer at Shiptheory. Always interested in picking up new technologies, learning different languages, and exploring projects across web, robotics, and game dev.
 
-## Tech Stack
+### Tech Stack
 
-**Backend:** PHP (CakePHP, Laravel), Node.js, SQL
+* **Backend:** PHP (CakePHP, Laravel), Node.js, SQL
+* **Frontend:** Vue.js, React, JavaScript / TypeScript
+* **Hardware & Games:** Arduino, Unity, C#, C++
+  
+### What I'm Up To
 
-**Frontend:** Vue, React, JavaScript
+* Developing web apps & API integrations
+* Learning hardware and robotics with Arduino
+* Working on open-source ideas and side projects
+* Exploring game development in Unity
 
-**Game Dev:** Unity, C#, C++
-   
+### Education
+* BSc (Hons) Creative Computing (First Class) @ Bath Spa Uni
+
 ## Links to my work:
 
 [Portfolio](http://francescabowden.com/) · [LinkedIn](https://www.linkedin.com/in/francescabowden) · [Games](https://franbowden.itch.io/)
