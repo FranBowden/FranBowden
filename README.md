@@ -16,6 +16,7 @@ I'm a Junior Software Developer at Shiptheory. Always interested in picking up n
 
 ### Education
 * BSc (Hons) Creative Computing (First Class) @ Bath Spa Uni
+* International Exchange @ Uni of Tech Sydney
 
 ## Links to my work:
 
