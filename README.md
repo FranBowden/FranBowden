@@ -20,4 +20,4 @@ I'm a Junior Software Developer at Shiptheory. Always interested in picking up n
 
 ## Links to my work:
 
-[Portfolio](http://francescabowden.com/) · [LinkedIn](https://www.linkedin.com/in/francescabowden) · [Games](https://franbowden.itch.io/)
+[Portfolio](http://francescabowden.com/) · [LinkedIn](https://www.linkedin.com/in/francescabowden) · [Itch.io](https://franbowden.itch.io/)
